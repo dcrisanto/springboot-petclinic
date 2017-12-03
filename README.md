@@ -45,8 +45,7 @@ Password: redhot
 
 
 
-Observaciones
+Pendientes
 -------------
 
-* Queda pendiente la implementación de MD5 para las contraseñas.
-* Roadmap: Implementar SpringBoot. 
+* Implementación de MD5 para las contraseñas.
